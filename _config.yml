@@ -1,0 +1,28 @@
+name: cyrillahome.com
+favicon: null
+layout_spectrum: 0.4214079938828945
+typography_spectrum: 0.968060904648155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.023097829427570105
+  lightness: 0.5167919953819364
+  saturation: 0.6339153526350856
+  rhythmicContrast: 0.5598916423041373
+purpose: []
